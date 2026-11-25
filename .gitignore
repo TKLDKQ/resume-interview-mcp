@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+*.egg-info/
+.resume-data/
+*.pdf
+*.log
+.env
+.env.*
